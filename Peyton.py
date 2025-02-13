@@ -17,4 +17,4 @@ def jogo_adivinhacao():
             print(f"Parabéns! Você adivinhou o número {numero_secreto} em {tentativas} tentativas.")
 
 if __name__ == "__main__":
-    jogo_adivinhacao()
+ fim_de_jogoo()
